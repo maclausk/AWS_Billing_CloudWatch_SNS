@@ -1,6 +1,4 @@
 <h1>
-    <a href="https://www.linkedin.com/in/maclausk/">
-    <img align="center" src="https://media.licdn.com/dms/image/D4D16AQHUHD9cgLQzPA/profile-displaybackgroundimage-shrink_350_1400/0/1680559517389?e=1723075200&v=beta&t=z-0lesLcBH4YT0HtY194gMpP0V9cIclxemMelXcb6-k"></a><br>
     <span><center>Projeto AWS: Monitoramento de Custos com Billing, CloudWatch e SNS</center></span>
 </h1>
 
